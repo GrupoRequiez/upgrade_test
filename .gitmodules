@@ -26,10 +26,6 @@
 	path = stock_no_negative
 	url = git@github.com:GrupoRequiez/stock_no_negative.git
 	branch = 14.0
-[submodule "mass_editing"]
-	path = mass_editing
-	url = git@github.com:GrupoRequiez/mass_editing.git
-	branch = 14.0
 [submodule "mrp_sale_info"]
 	path = mrp_sale_info
 	url = git@github.com:GrupoRequiez/mrp_sale_info.git
@@ -65,4 +61,8 @@
 [submodule "web_notify"]
 	path = web_notify
 	url = git@github.com:GrupoRequiez/web_notify.git
+	branch = 14.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
